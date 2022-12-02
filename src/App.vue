@@ -62,18 +62,6 @@ let todos = ref([
     done: false,
     category: 1,
   },
-  {
-    id: 7,
-    title : 'Learn new dev VueJs',
-    done: true,
-    category: 3,
-  },
-  {
-    id: 8,
-    title : 'Eat before going to school',
-    done: true,
-    category: 2,
-  },
 ])
 
 function getCategoryWithId(id) { return categories.find(n => n.id == id)}
