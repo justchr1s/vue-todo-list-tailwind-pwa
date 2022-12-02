@@ -13,3 +13,4 @@ git commit "adding dist"
 ```sh
 git subtree push --prefix dist origin gh-pages
 ```
+Learn more with [this](https://youtu.be/yo2bMGnIKE8) YouTube video
