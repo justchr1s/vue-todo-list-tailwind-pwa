@@ -7,7 +7,7 @@ git add dist -f
 ```
 
 ```sh
-git commit "adding dist"
+git commit -m "adding dist"
 ```
 
 ```sh
